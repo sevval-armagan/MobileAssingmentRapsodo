@@ -6,7 +6,7 @@
 A prototype Mobile Assingment app using Realm and AVFoundition. Language is Swift 5, using MVVM pattern as well.
 `
 
-## Getting Started
+## Installation
 
 - Clone or download
 - Pod install
